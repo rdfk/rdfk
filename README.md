@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Rick
 
-<!--
-**rdfk/rdfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python dev-in-training using AI and voice dictation to overcome physical limitations.  
+I build tools that solve real problems and support others through tech.
 
-Here are some ideas to get you started:
+## 🔧 Interests
+- Python scripting & automation
+- Tech support & troubleshooting
+- AI-assisted workflows (voice, accessibility, productivity)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📦 Projects
+- 🔐 **Password Generator** – Creates secure passwords using customized word mutation logic  
+- 🧹 **File Organizer** – Automatically sorts files into folders based on type  
+- 💡 More coming soon as I learn and build!
+
+## 💬 Let's Connect
+I'm still in the early stages of this journey, but always open to project ideas, learning opportunities, and potential collaborations.
