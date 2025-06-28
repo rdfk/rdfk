@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Rick
 
-I'm a Python dev-in-training using AI and voice dictation to overcome physical limitations.  
-I build tools that solve real problems and support others through tech.
+I'm very passionate about technology and how we can use it to overcome modern day obstacles to make life easier and more productive. Balancing automation and AI assistive creativity while maintaining agency, and personal identity.
 
 ## 🔧 Interests
 - Python scripting & automation
 - Tech support & troubleshooting
-- AI-assisted workflows (voice, accessibility, productivity)
+- Desire to write code and create tools that help people
 
 ## 📦 Projects
 - 🔐 **Password Generator** – Creates secure passwords using customized word mutation logic  
