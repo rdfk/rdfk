@@ -4,6 +4,7 @@ I'm very passionate about technology and how we can use it to overcome modern da
 
 ## Interests
 - Python scripting & automation
+- Electronics, and embedded systems
 - Tech support & troubleshooting
 - Desire to write code and create tools that help people
 
