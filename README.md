@@ -1,6 +1,6 @@
 # Hi, I'm Rich
 
-I'm very passionate about technology and how we can use it to overcome modern day obstacles to make life easier and more productive. Balancing automation and AI assistive creativity while maintaining agency, and personal identity.
+I'm very passionate about technology and how things work. I hope to improve my skills and create code that helps others.
 
 ## Interests
 - Python scripting & automation
